@@ -1,5 +1,5 @@
 
-Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
+# Hi, I am Abinav R, Call me Abinav. 
 
 - 🔭 I’m currently working on a simple project that can create a synced playlist
 - 🌱 I’m currently learning Apache Kafka, flink and river
