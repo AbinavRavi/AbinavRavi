@@ -1,4 +1,4 @@
-![Abinav R](./assets/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
+
 Hi, I am Abinav Ravi venkatakrishnan, Call me Abinav. 
 
 - 🔭 I’m currently working on a simple project that can create a synced playlist
@@ -37,8 +37,6 @@ ture store).
 * Completed Master thesis on [Self Supervised Out of Distribution detection for Medical application](../resources/thesis.pdf) under the supervision of [Dr.Kim SeongTae](http://ailab.khu.ac.kr/people/pi/) at [CAMPAR](http://campar.in.tum.de/Chair/ResearchGroupCamp).  . 
 * I worked with [Suprosanna](http://campar.in.tum.de/Main/SuprosannaShit) in [Image Based Biomedical Modelling](http://campar.in.tum.de/Chair/ResearchIBBM) lab on 'Solving Inverse Problem in PDE using deep learning'.
 
-
-You can know about my current projects at [Github](https://github.com/AbinavRavi)
 
 ## Blog
 I write on [Medium](https://abinavravi.medium.com/) (Not behind a payment gateway)
