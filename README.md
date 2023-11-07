@@ -12,13 +12,13 @@ My job is to run convert mathematical models in code to production grade softwar
 My newest passion is to make real time ML accessible to all.
 
 ## What skills do I have
-- Programming Languages - Python(Advanced), Rust(Intermediate), C(Intermediate), bash(Intermediate),Go (basic), Javascript(basic),Julia
-- Data Science tools -Numpy, Scipy, matplotlib, seaborn, scikit learn, scikit image, Pytorch, Pandas, OpenCV, Flask, PySyft, Plotly Dash,PySpark, Tensorflow
-- Database PostrgreSQL, MongoDB, DynamoDB
-- DevOps/MLOps Tool Docker, Kubernetes, Gitlab runner, Jenkins, Terraform, MLFlow, feast (fea-
+- **Programming Languages** - Python(Advanced), Rust(Intermediate), C(Intermediate), bash(Intermediate),Go (basic), Javascript(basic),Julia
+- **Data Science tools** -Numpy, Scipy, matplotlib, seaborn, scikit learn, scikit image, Pytorch, Pandas, OpenCV, Flask, PySyft, Plotly Dash,PySpark, Tensorflow
+- **Database** - PostrgreSQL, MongoDB, DynamoDB
+- **DevOps/MLOps Tool** - Docker, Kubernetes, Gitlab runner, Jenkins, Terraform, MLFlow, feast (fea-
 ture store).
-- Cloud Platforms - AWS (S3 and EC2, ECR, API Gateway, Lambda, DynamoDB, IAM), GCP
-- LLM tools OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
+- **Cloud Platforms** - AWS (S3 and EC2, ECR, API Gateway, Lambda, DynamoDB, IAM), GCP
+- **LLM tools** - OpenAI API, Huggingface API, Guardrails, LMQL, jsonformer
 
 ## Work Experience
 * Machine Learning engineer (MLE) at [TurboML](https://turboml.com/) (November 2023 - Present)
