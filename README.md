@@ -1,7 +1,7 @@
 
 # Hi, I am Abinav R, Call me Abinav. 
 
-- 🔭 I’m currently working on a simple project that can create a synced playlist
+- 🔭 I’m currently working on a project that brings swagger UI attached with rust axum
 - 🌱 I’m currently learning Apache Kafka, flink and river
 - 👯 I’m looking to collaborate on Machine learning or backend API for web
 - 💬 Ask me about building ML models for production or MLOps
